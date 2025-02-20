@@ -1,7 +1,6 @@
 /*==========================================================
 
- Title:     Assignment 10 (Final) - C++ Currency Translation Machine
- Course:  	CIS 2252
+ Title:     C++ Currency Translation Machine
  Author:  	<Sydney Lum>
  Date:    	<11/16/2023>
  Description: This program takes an amount needed in exchanged currency and
